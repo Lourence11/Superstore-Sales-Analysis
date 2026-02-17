@@ -162,8 +162,8 @@ This project analyzes the Sample Superstore dataset to evaluate sales performanc
 ### The combination of Python (for deep analysis) and Power BI (for executive visualization) provides a complete data analysis workflow.
 
 # 🚀 Project Outcome
-✔ Cleaned & analyzed 9,977 records
-✔ Built automated visualizations in Python
-✔ Designed executive Power BI dashboard
-✔ Identified high-risk discount strategy
-✔ Extracted actionable business insights
+- Cleaned & analyzed 9,977 records
+- Built automated visualizations in Python
+- Designed executive Power BI dashboard
+- Identified high-risk discount strategy
+- Extracted actionable business insights
